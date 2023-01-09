@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @innes-ireland
-- 👀 I’m interested in ...learning javascript,CSS & HTML
-- 🌱 I’m currently learning CSS & HTML
+- 👀 I’m interested in ...learning Javascript, Java, React & Python
+- 🌱 I’m currently learning JavaScript, Node, React & Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me innesmireland@gmail.com
 
